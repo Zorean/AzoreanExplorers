@@ -8,7 +8,7 @@ We have dimension mod so you can create a mining, gardening and any other world 
 
 Of Course other popular mods like EnderIO a known tech mod to help you, Botania and  Forestry allowing fun and innovative ways to automate almost every item in the game, also Refined Storage to answer all of your storage needs.
 
-As new mods keep coming out for minecraft 1.9.4 this modpack will grow and so will your possibilities! At the end of minecraft day this modpacks is designed to have fun with all the mods that invite exploration and add challenge.
+As new mods keep coming out for minecraft 1.10.2 this modpack will grow and so will your possibilities! At the end of minecraft day this modpacks is designed to have fun with all the mods that invite exploration and add challenge.
 
  
 
